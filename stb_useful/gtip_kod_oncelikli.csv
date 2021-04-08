@@ -1,0 +1,920 @@
+gtip_kodu,gtip_tanimi
+152000001000,Ham gliserol
+270730000000,Ksilol (ksilen)
+280110000000,Klor
+280300009011,İskarası
+280300009019,Diğer karbon karaları ve diğer şekillerde karbon
+280410000000,Hidrojen
+280429100000,Helyum (Asal gaz)
+280469000000,"Silisyum (ağırlık itibariyle < % 99, 99 silisyum içerenler)"
+280480000000,Arsenik
+280700000019,Diğer sülfirik asit
+280920000017,Orto fosforik asitler (fosforik asit ); gıda sanayii dışında kullanılanlar
+281410000000,Saf amonyak
+281511000000,Sodyum hidroksit (kostik soda) katı halde
+281512000000,Sodyum hidroksit (kostik soda) sıvı çözeltileri
+281520000000,Potasyum hidroksit (kostik potas)
+281830000000,Alüminyum hidroksit
+282200000011,Kobalt oksitleri
+282200000012,Ticari kobalt oksitleri
+282200000013,Kobalt hidroksitleri
+282520000000,Lityum oksit ve hidroksit
+282580000000,Antimuan oksitleri
+282690801000,Potasyum florborat ve potasyumun diğer kompleks flor tuzları
+282690809012,Sodyum florborat ve sodyumun diğer kompleks flor tuzları
+282690809019,Diğer kompleks flor tuzları
+282759002000,Diğer bromürler
+283421000000,Potasyum nitrat
+283524000000,Potasyum fosfat
+283650000000,Kalsiyum karbonat
+283691000000,Lityum karbonatlar
+283699901000,Sodyum perkarbonatlar
+283711000011,Sodyum siyanürler
+284210000000,Kompleks/çift silikatlar
+284390902011,Platin tuzları
+284390902015,Radyum tuzları
+284390909000,Kıymetli metallerin diğer bileşikleri
+284440200012,Radyoaktif fosfor
+284440200014,Radyoaktif kobalt
+290124000000,"1,3 - Butadien ve izopren"
+290211000000,Siklohekzan
+290220000000,Benzen (benzol)
+290230000000,Tolüen (toluol)
+290243000000,p; ksilen
+290250000000,Stiren (vinil benzen)
+290270000000,Kümen (izopropil benzen)
+290321000000,Vinil klorür (kloretilen) doymamış
+290339260000,"1,1,1,2 - tetrafloretan (HFC-134-a)"
+290339310000,"2,3,3,3 - Tetraflorpropen"
+290420000012,Nitrobenzen
+290511001011,Saf metil alkol (dökme olanlar)
+290512000012,İzopropil alkol
+290516850019,Oktanol (oktil alkol) ve izomerleri; diğer
+290531000000,Dioller-etilen glikol (etandiol)
+290532000000,"Propilen glikol (1, 2-propandiol)"
+290545000000,Gliserin
+290549009010,Ksilitol
+290711001000,"Fenol (hidroksibenzen, fenik asit)"
+290723000011,"4, 4'- İzopropilidendifenol"
+290729008019,Diğer polifenoller ve tuzları
+290919900013,Metil tersiyer bütil eter (MTBE)
+290941000000,"Dietilen glikol (2, 2'-oksidietanol) (digol)"
+290949809019,Asiklik eter alkoller ve türevleri; diğer
+291010000000,Etilen oksit (oksiran)
+291020000000,Propilen oksit (metiloksiran)
+291411000000,Aseton (propanon)
+291521000011,Glasiyel asetikasit (buzlu asetikasit)
+291521000012,Ticari asetik asit
+291531000000,Etil asetat
+291532000000,Vinil asetat
+291590700049,"Diğer doymuş asiklik monokarboksilik asitler,bunların halojenlenmiş,sülfolanmış,nitrolanmış veya nitrozolanmış türevleri"
+291611001000,Akrilik asit
+291612000013,Butil akrilat
+291614000011,Metil metakrilat
+291614000019,Metakrilik asitin diğer esterleri
+291619959000,Diğer doymamış asiklik monokarboksilik asitler ve türevleri
+291639909019,"Diğer aromatik monokarboksilik asitler, bunların anhidritleri, halojenürleri, peroksitleri, peroksiasitleri ve türevleri"
+291712000011,Adipik asit
+291714000000,Maleik anhidrit
+291719800019,Diğer asiklik polikarboksilik asitler
+291735000000,Ftalik anhidrit
+291736000011,Tereftalik asit
+291814000000,Sitrik asit
+291816000013,Sodyum glukonat
+291819300000,"Kolik asit ve deoksikolik asit vb. tuzları, esterleri"
+291819989000,Diğer karboksilik asitler ve türevleri; alkol fonksiyonlu grubu olan başka oksijen fonksiyonlu grubu olmayan
+291829008919,Fenol fonksiyonlu grubu olan fakat başka oksijen fonksiyonlu grubu olmayan diğer karboksilik asitler ve türevleri
+292122000011,Hekzametilendiamin
+292141000011,Anilin
+292149000039,Diğer aromatik monoaminler ve türevleri
+292219000028,"Oksijen gruplu diğer amino alkoller, bunların eterleri ve esterleri ve bunların tuzları"
+292229009011,Aminofenoller (o-m-p)
+292229009019,"Diğer anizidinler, dianizidinler, fenetidinler ve bunların tuzları"
+292249859033,Etilendiamintetraasetik asitin sodyum tuzları
+292249859035,Pregabalin
+292249859036,Gabapentin
+292249859039,"Diğer amino asitler (bir cinsten fazla oksijenli grubu bulunanlar hariç), esterleri ve bunların tuzları"
+292250009014,Fluoxetin (INN)
+292250009019,"Diğer amino-alkol fenoller, diğer amino-asit fenoller ve oksijen gruplu diğer amino bileşikleri"
+292529000019,Diğer iminler ve türevleri; bunların tuzları
+292610000000,Akrilonitril
+292690700018,Verapamil hidroklorür
+292690700028,Nitril gruplu diğer bileşikler
+292910000011,Metilfenilen diizosiyanatlar (toluen diizosiyanatlar)
+292910000029,Diğer izosiyanatlar
+293040900000,Diğer methionin
+293090160000,Sistein ve sistinin türevleri
+293090989068,Kükürtlü organik diğer bileşikler
+293190009068,Diğer organo-inorganik bileşiklerin diğerleri
+293299005019,Diğer halkalı eterler
+293299009019,Sadece oksijenli heterosiklik bileşiklerin diğerleri
+293329900019,Yapısında başka halkaya yapışmamış bir imizadol halkası olan diğer bileşikler
+293333000018,Fentanyl (INN)
+293333000024,Pethidine (INN)
+293339990027,Remifentanil
+293339990039,Yapısında başka bir halkaya yapışmamış piridin halkası olan diğer bileşikler
+293349900029,Kinolin/izokinolin halka sistemleri olan diğer bileşikler
+293361000000,Melamin
+293371000000,Epsilon kaprolaktam (6 hekzanelaktam)
+293379000019,Diğer laktamlar
+293391900016,Diazepam (INN)
+293399809014,Monoazepinler
+293399809049,Sadece azotlu heterosiklik bileşiklerin diğerleri
+293499909013,Tiyokonazol
+293499909027,Diğer nükleik asitler ve bunların tuzları ve diğer heterosiklik bileşikler
+293980000000,"Diğer alkaloidler ve bunların tuzları, eterleri, esterleri ve diğer türevleri"
+294200000029,Diğer organik bileşikler
+310210100000,"Üre; kuru anhidrit ürün üzerinden, azot miktarı ağırlık olarak >%45"
+310210900000,"Üre; kuru anhidrit ürün üzerinden, azot miktarı ağırlık olarak <=%45"
+310221000000,Amonyum sülfat
+310420500000,"Potasyum klorür; kuru anhidrit ürün üzerinden, % 40 K2O oranı =<%62"
+310540000011,Amonyum dihidrojenortofosfat (monoamonyum fosfat)
+310559000011,"Azot, fosforlu gübreler kuru anhidrit ürün üzerinden, azot oranı =>%10"
+320300109000,Bitkisel menşeli boyayıcı diğer maddeler ve esası bitkisel menşeli boyayıcı madde olan diğer müstahzarlar
+320411000000,Dağılan boyalar ve esası bu boyalar olan müstahzarlar
+320412000011,Asit boyalar
+320413000000,Bazik boyalar ve esası bu boyalar olan müstahzarlar
+320415000000,Vat boyalar ve esası bu boyalar olan müstahzarlar (pigment kullanılanlar dahil)
+320416000000,Reaktif boyalar ve esası bu boyalar olan müstahzarlar
+320417000011,Pigmentler
+320419000011,Kükürtlü boyalar
+320419000019,Sentetik organik boyayıcı maddeler; diğer
+320490000000,Sentetik organik boyayıcı maddeler ve müstahzarları; diğer
+320611000000,Esası titandioksit olan pigment ve müstahzarlar titandioksit oranı = >%80
+320890910019,Diğer sentetik vernikler; esası sentetik polimer olanlar
+320890910029,Diğer sentetik boyalar; esası sentetik polimer olanlar
+320990000000,"Sentetik esaslı diğer polimerler, sulu ortamda eriyen/dağılan boya ve vernikler"
+321000900011,Zehirli boyalar (antifouling boyalar)
+321210000000,Istampacılığa mahsus varaklar
+321410100012,Plastik esaslı macunlar
+321519000000,Diğer baskı mürekkepleri (konsantre edilmiş veya katı halde olsun olmasın)
+330190100000,Uçucu yağların terpeninin alınmasından arta kalan yan ürünleri
+330190301000,Ekstraksiyonla elde edilen diğer yağ reçineleri; tıbbi
+330190309000,Ekstraksiyonla elde edilen diğer yağ reçineleri;diğerleri
+330210290000,"İçecek sanayiinde kullanılan diğer müstahzarlar;tat vericileri içeren;alkol oranı=<%0,5;diğerleri"
+330210401000,İçeceklerin imalinde kullanılan türden esası koku verici maddeler olan müstah.
+330290100000,Alkollü çözeltiler
+330290900000,Esası koku verici maddeler olan diğer müstahzarlar
+330300900019,Diğer tuvalet suları
+330420000000,Göz makyaj müstahzarları
+330499009013,"Vücut losyonları, kremler, emülsiyonlar ve yağlar"
+330499009019,"Güzellik, makyaj, cilt bakımı, manikür, pedikür için diğer müstahzarlar (ilaçlar hariç, güneş kremleri dahil)"
+330590001000,Saç boyaları
+330610000000,Diş macunları/tozları
+340213000000,Yüzey aktif organik maddeler; iyonlu olmayanlar
+340290100012,Sabun içermeyen yüzey aktif müstahzarlar (toptan)
+340319800000,Petrol yağları veya bitümenli minerallerden elde edilen yağları içeren diğer yağlayıcılar
+340399000000,Diğer yağlama müstahzarları
+340420000000,Suni mumlar ve müstahzar mumlar; Poli(oksietilen) (polietilen glikol)den elde edilenler
+350790900019,Diğer enzimler
+370130000029,Diğer boş fotoğraf levhaları ve filmler (herhangi bir kenarı 255 mm.yi geçenler)
+370790900000,Fotoğrafçılıkta kullanılan diğer kimyasal müstahzarlar
+380630001000,"Ester sakızları; sıvı veya hamur halde veya blok, parça , pıhtı, şekilsiz külçe, granül, pul ve toz halinde olanlar"
+380892500000,Zararlı mantarları yok ediciler; esası diazol veya triazol olanlar
+380892900019,Zararlı mantarı diğer yok ediciler
+380893270019,Zararlı bitkileri yok edici diğer inorganikler
+380899900019,"Diğer bitkileri koruyucu, geliştirici müstahsallar (diğerleri)"
+381121001000,Mineral yağlar/benzeri sıvı yağlar için müstahzar katkılar; petrol yağı içeren
+381190001011,Ağır mineral yağlar için müstahzar katkılar
+381210000000,Vulkanizasyon çabuklaştırıcı müstahzarlar
+381512000000,Takviye edilmiş katalizatörler; aktif maddesi kıymetli metal/kıymetli metal bileşikleri
+381590900000,"Diğer reaksiyon başlatıcılar, hızlandırıcılar ve katalitik müstahzarlar"
+381700500000,Lineer alkilbenzen
+381800900000,Dope edilmiş diğer kimyasal elementler (elektronikte kullanılmak üzere)
+382100000000,Mikroorganizmaların geliştirilmesinde kullanılan müstahzar kültür ortamları
+382200001000,Laboratuvarlarda/teşhiste kullanılan reaktifler emdirilmiş/sıvanmış plastik plaka/levha/yaprak/şerit
+382200003000,Laboratuvarda/teşhiste kullanılan reaktifler emdirilmiş/sıvanmış plastik plaka/levha/yaprak/şerit(ölçüye göre kesilmiş)
+382200009011,DNA temelli biyolojik işaretleyiciler
+382200009019,"Laboratuvarlarda/teşhiste kullanılan DİĞER reaktifler/müstahzar reaktifler (30.02, 30.06 hariç) ve standart maddeleri"
+382311000000,"Stearik asit (Sınai monokarboksilik, rafinaj mahsulü)"
+382319100000,Damıtılmış yağ asitleri
+382370009000,Diğer sınai yağ alkolleri
+382499550000,"Mono, di ve tri stearatlardan oluşan gliserin karışımları"
+382499920039,Esas olarak organik bileşiklerden oluşan 20 °C'de sıvı formunda olan diğer kimyasal ürünler veya müstahzarlar
+382499930019,Başka yerde belirtilmeyen veya yer almayan esas olarak organik bileşiklerden oluşan diğer kimyasal ürünler/müstahzarlar
+382499961000,Farklı anyon içeren bileşiklerin tuzlarının karışımları
+382499969021,Akümülatörler için kadmiyum oksit veya nikel hidroksit esaslı bileşikler
+382499969068,Kimya sanayii veya kimya sanayiine bağlı sanayilerde kullanılan diğer kimyasal ürünler ve müstahzarlar
+390110100000,"Lineer polietilen (özgül kütlesi < 0, 94 (ilk şekilde)"
+390110900011,"Alçak yoğunluk polietilen (özgül kütlesi < 0, 94 (ilk şekilde)"
+390110900012,"Polietilen kompaundları (özgül kütlesi < 0, 94 (ilk şekilde)"
+390120100000,"Polietilen; özgül kütlesi >= 0,958, Al <= 50 mgr./kg, Ca <= 2 mgr./kg, Cr <= 2 mgr./kg, (Devamı resmi gazetede)"
+390120900011,"Yüksek yoğunluk polietilen; özgül kütlesi = >0, 94 (ilk şekilde)"
+390120900012,"Polietilen kompaundları; özgül kütlesi = >0, 94 (ilk şekilde)"
+390120900019,"Diğer etilen polimerleri; özgül kütlesi = >0, 94 (ilk şekilde)"
+390130000000,Etilen (vinil asetat kopolimerleri (ilk şekilde)
+390140000000,"Etilen-alfa-olefin kopolimerleri; özgül kütlesi 0,94?ten az olanlar (ilk şekilde)"
+390190800011,Etilen propilen kopolimeri (ilk şekilde)
+390190800019,Etilen polimerlerinin diğerleri (ilk şekilde)
+390210000011,Polipropilen bileşikleri (kompaundları); ilk şekillerde
+390210000019,Diğer polipropilen; ilk şekillerde
+390230000011,Polipropilen kopolimerleri bileşikleri (kompaundları); ilk şekillerde
+390230000019,Propilen kopolimerlerinin diğerleri; ilk şekillerde
+390319000000,Diğer polistiren
+390330000000,Akrilonitril-butadien-stiren (abs) kopolimerleri (ilk şekilde)
+390390200000,Bromlanmış polistiren (%58=
+390390900000,Diğer stiren polimerleri (ilk şekilde)
+390410000011,PVC Polivinil klorür (karıştırılmamış) (ilk şekilde) emülsiyon (E-PVC)
+390410000019,PVC Polivinil klorür (karıştırılmamış) (ilk şekilde) diğerleri
+390421000000,PVC-plastifiye edilmemiş (ilk şekilde)
+390422000000,PVC-plastifiye edilmiş (ilk şekilde)
+390440000000,Diğer vinil klorür kopolimerleri (ilk şekilde)
+390469200000,Fluoroelastomer FKM
+390469800000,Diğer florlu polimerler
+390529000000,Vinil asetat kopolimerleri (diğer) (ilk şekilde)
+390530000000,Vinil alkol (hidrolize olmamış) (ilk şekilde)
+390591000000,Vinil kopolimerler (ilk şekilde)
+390610000000,Polimetil metakrilat (ilk şekilde)
+390690900000,Diğer akrilik polimerler (ilk şekilde)
+390710000000,Poliasetaller (ilk şekilde)
+390720110000,Polietilen glikoller; ilk şekilde
+390720200000,Diğer polieter alkoller; ilk şekilde
+390720990000,Diğer polieterler (ilk şekilde)
+390730000000,Epoksi reçineler (ilk şekilde)
+390740000000,Polikarbonatlar (ilk şekilde)
+390761000000,"Poli(etilen tereftalat); ilk şekilde, viskozitesi=>78 ml/g"
+390769000000,"Poli(etilen tereftalat); ilk şekilde, viskozitesi<78 ml/g"
+390799800000,"Diğer poliesterler; doymuş, ilk şekilde"
+390810000011,"Poliamid -6, -11, -12, -6,6, -6,9, -6,10 veya -6,12 bileşikleri (kompaundları); ilk şekillerde"
+390810000019,"Poliamid -6, -11, -12, -6,6, -6,9, -6,10 veya -6,12'nin diğerleri; ilk şekillerde"
+390890000000,Diğer poliamidler (ilk şekilde)
+390931000000,"Poli (metilen fenil izosiyanat) (ham MDI, polimerik MDI) (ilk şekilde)"
+390939000000,Diğer amino reçineler (ilk şekilde)
+390940000000,Fenolik reçineler
+390950100000,"2, 2-dietanol ve 4, 4-metilendisiklohekzilen diizosiyanat pol.N, N-dimetil asetamid çöz.(polimer=>%50)"
+390950900000,Diğer poliüretanlar (ilk şekilde)
+391000000011,Silikon yağları (ilk şekillerde)
+391000000012,"Dispersiyon, emilsiyon, süspansiyon ve çözeltiler (ilk şekillerde)"
+391000000019,Diğer silikonlar (ilk şekilde)
+391110000000,"Petrol reçineleri, kumaron, inden/kumaron; inden reçineleri, politerpenler (ilk şekilde)"
+391190110000,"Kondensasyon/çevrilme polimerizasyon ürünlerinden poli(oksi-1,4-fenilensulfonil-1,4-fenilenoksi-1,4- -1,4-fenilen)"
+391190130000,"Kondensasyon/çevrilme polimerizasyon ürünlerinden poli (tiyo-1, 4-fenilen)"
+391190190000,Kondensasyon/çevrilme polimerizasyonun diğer ürünleri
+391190920000,"p-Krezol , hidrojene edilmiş viniltoluen ve A-metil stiren kopolimerleri"
+391190990000,"Diğer petrol, kumaron, inden reçineler, politerpenler, polisülfürler, polisülfolar (ilk şekillerde)"
+391220190011,"Diğer seliloz nitratları; plastifiye edilmemiş;azot<%12, 6, su/alkol> %25 ile ıslatılmış"
+391239850000,Diğer selüloz eterleri
+391290900000,"Diğer selüloz, kimyasal türevleri (başka yerinde belirtilmeyen) (ilk şekilde)"
+391390001000,Dekstran (ilk şekilde)
+391390009000,Diğer tabii polimerler (aljinik asit gibi) ve tadil edilmiş tabii polimerler (ilk şek.)
+400211001011,"Stiren; budatien kauçuktan (SBR) lateks, nakil vasıtası iç, dış lastiği imal/yenilenmesinde kullanılacak"
+400211001012,"Karboksilenmiş stiren; budatien kauçuktan (XSBR) lateks, iç, dış lastiği imal/yenilenmesinde kullanılacak"
+400211009000,"Stiren-butadien kauçuk,karboksilenmiş stiren-butadien kauçuk;diğer amaçlı"
+400219101000,"Emilsiyon polimerizasyonu ile üretilen stiren-butadien kauçuk (E-SBR) nakil vasıtası iç, dış lastiği imal/sırt geçirme"
+400219109000,Emilsiyon polimerizasyonu ile üretilen stiren-butadien kauçuk (E-SBR) (balya halinde) diğer hallerde
+400219201000,"SBS termoplastik elostomerler (granül, parça, toz halinde) nakil vasıtası iç, dış lastiği imal ve sırt geçirme"
+400219209000,"SBS termoplastik elostomerler (granül, parça, toz halinde) diğer hallerde"
+400219301000,"Solisyon polimerizasyonu ile üretilen stiren-butadien kauçuk (E-SBR) nakil vasıtası iç, dış lastiği imal/sırt geçirme"
+400219309000,Solisyon polimerizasyonu ile üretilen stiren-butadien kauçuk (E-SBR) (balya halinde) diğer hallerde
+400219901000,"Stiren-butadien kauçuk(SBR),karboksilenmiş stiren-butadien kauçuk(XSBR); nakil vasıtası iç/dış lastiği imal/sırt geçirme"
+400219909000,"Stiren-butadien kauçuk(SBR),karboksilenmiş stiren-butadien kauçuk(XSBR); diğer yerlerde kullanılan"
+400220001000,Butadien kauçuk (BR); nakil vasıtası iç ve dış lastiği imal ve yenilenmesi için
+400220009000,Butadien kauçuk (BR); diğer yerlerde kullanılan
+400239001000,Halojenli izobüten-izopren kauçukları (CIIR/BIIR); nakil vasıtası iç ve dış lastiği imal ve yenilenmesinde kullanılan
+400259009000,"Akrilonitril - butadien kauçuk (NBR); diğer şekillerde, diğer yerlerde kullanılan"
+400260001000,İzopren kauçuk (IR); nakil vasıtası iç ve dış lastiği imal/yenilenmesinde kullanılan
+400270001000,Etilen - propilen - konjuge olmamış dien kauçuk (EPDM); nakil vasıtası iç ve dış lastiği imal/yenilenmesinde kullanılan
+400270009000,Etilen - propilen - konjuge olmamış dien kauçuk (EPDM); diğer yerlerde kullanılan
+400299901900,Taklit kauçuklar; diğer amaçlı
+540220002912,"Polyesterden yüksek mukavemetli iplikler; dikiş iplikleri hariç, dtex>660, parekende olmayan"
+550120000000,Sentetik filament demetleri; poliesterlerden
+550311000000,Aramidlerden sentetik devamsız lifler (işlem görmemiş)
+550320000000,Sentetik devamsız lifler; poliesterlerden (işlem görmemiş)
+292320001000,Lesitin
+292320009000,Diğer fosfoaminolipidler
+292419000029,Diğer asiklik amidler
+292429100000,Lidokain (INN)
+292429700048,Diğer siklik amidler (siklik karbamatlar dahil) ve türevleri ve bunların tuzları
+293220909019,Diğer laktonlar
+293359950028,Piperazinin diğer tuz ve türevleri
+293359950031,Siprofloksasin
+293359950038,Yapısında bir pirimidin halkası/piperazin halkası olan diğer bileşikler
+293369800019,Yapısında başka bir halkaya yapışmamış bir triazin halkası olan diğer bileşikler
+293590900029,Diğer sülfonamidler
+293621000012,Vitamin A asetat
+293621000019,Vitamin A 'nın diğer türevleri
+293622000012,Tiyamin hidroklorür
+293624000013,Kalsiyum pantotanat
+293624000019,Vitamin B3/B5'in diğer türevleri
+293625000012,Piridoksin hidroklorür
+293627000011,Vitamin C [L-veya DL-askorbik asit (INN) ]
+293628000012,Tokoferil asetat
+293629000046,Vitamin A+D3
+293629000049,Diğer vitaminler ve türevleri
+293690009029,Diğer provitaminler ve vitaminlerin karışımları
+293712002000,Ensülin tuzları
+293719000019,Diğer hormonlar
+293721000014,Prednizolon (dehidrohidrokortizon)
+293722000000,Kortikosteroidal hormonlarının halojenlenmiş türevleri
+293723000012,Projestojenler (over hormonlar)
+293729000019,"Diğer steroidal hormonlar, bunların türevleri"
+293750000000,"Prostaglandinler, thromoxanlar ve leukotrienler vb. türevleri"
+293790000000,Diğer hormonlar ve bunların türevleri
+293890901000,Saponinler
+293890909019,"Glikozitler vb. tuzları, eterleri, esterleri ve diğer türevleri; diğer"
+293919000014,Apomorfin
+293979909014,Pilokarpin
+293979909029,"Bitkisel kökenli diğer alkaloidler ve bunların tuzları, eterleri, esterleri ve diğer türevleri"
+294110000011,Amoksilin trihydrate
+294110000034,Sultamycillin tosylat
+294130000012,Tetrasiklin hcı
+294150000019,Erithromisinin diğer türevleri
+294190000023,Gentamisin sülfat
+294190000039,Linkomisin'in diğer türevleri; bunların tuzları
+294190000047,Sefuroksim aksetil
+294190000048,Diğer sefalosporinler ve türevleri; bunların tuzları
+294190000051,Netilmisin sülfat
+294190000059,Diğer antibiyotikler
+300190200000,Tedavide veya korunmada kullanılmak üzere hazırlanmış insan menşeli diğer maddeler
+300190910000,Hayvan menşeli heparin ve tuzları
+300190989000,Tedavide veya korunmada kullanılmak üzere hazırlanmış hayvan menşeli diğer maddeler
+300212000012,Aglutinan serumları
+300212000013,Gamma-globulin
+300212000021,Hemoglobin
+300212000022,Kan globulinleri
+300212000023,Serum globulinleri
+300212000029,Diğer kan fraksiyonlarının diğerleri
+300213000000,Karışım olmayan bağışıklık ürünleri; dozlandırılmamış veya perakende satışa uygun şekilde ambalajlanmamış/hazırlanmamış
+300215000000,Dozlandırılmış veya perakende satışa uygun şekilde ambalajlanmış/hazırlanmış bağışıklık ürünleri
+300219000000,Bağışıklık sağlayan diğer ürünler
+300220001000,Çocuk felci aşıları
+300220002011,Kızamık aşısı
+300220002013,BCG aşısı
+300220002014,Karma aşı (DBT)
+300220002019,İnsanlar için kullanılan diğer aşılar
+300290501019,Diğer fermentler
+300290509000,Diğer mikroorganizma kültürleri
+300290900019,"Diğer aşılar, toksinler, mikroorganizma kültürler"
+300310000000,Penisilanik asit bünyeli penisilinler/türevleri veya streptomisinler/türevlerini içeren ilaçlar (dozlandırılmamış)
+300320000000,Diğer antibiyotikleri içeren ilaçlar (dozlandırılmamış)
+300390000000,"Tedavide veya korunmada kullanılmak üzere birbirleriyle karıştırılmış diğer ilaçlar; dozlandırılmamış, ambalajlanmamış"
+300410000000,Penisilanik asit bünyeli penisilinler veya bunların türevleri (dozlandırılmış veya perakende satış için)
+300420000000,Antibiyotikleri içeren ilaçlar (dozlandırılmış veya perakende satış için ambalajlanmış)
+300431000000,İnsülin içeren ilaçlar (dozlandırılmış veya perakende satış için ambalajlanmış)
+300432000000,"Böbreküstü bezi hormonlarını, türevlerini ve yapısal benzerlerini içeren ilaçlar; dozlandırılmış veya perakende için"
+300439000000,"Antibiyotik içermeyip, diğer hormonları / 29.37 pozisyonundaki diğer ürünleri içeren ilaçlar (dozlandırılmış, perakende)"
+300449000000,Alkaloidleri veya türevlerini içeren diğer ilaçlar; dozlandırılmış veya perakende satış için ambalajlanmış
+300450000000,"Vitaminleri veya 29.36 Pozisyonundaki diğer ürünleri içeren diğer ilaçlar (dozlandırılmış, perakende için)"
+300490000000,"Tedavide veya korunmada kullanılmak üzere karışık olan veya karışık olmayan diğer ilaçlar; dozlandırılmış, ambalajlanmış"
+300590999000,"Tıp, cerrahi, dişçilikte kullanılan diğer eczacılık maddeleri (diğer maddelerden)"
+300620000000,Kan gruplarının/kan faktörlerinin tayinine mahsus reaktifler
+300630000011,Hastaya tatbik edilmek üzere hazırlanmış teşhis reaktifleri
+300630000012,Radyografi muayeneleri için X - ışınlarını geçirmeyen müstahzarlar
+300660000000,"Esası hormon, 29.37 pozisyonunun diğer ürünler veya spermisit olan gebeliği önleyici kimyasal müstahzarlar"
+382499580000,Sigara bıraktırmaya yardımcı olan nikotin bantları (transdermal sistemler)
+300640000013,Kemiklerin tedavisinde kullanılan çimentolar; sentetik kemik greftleri
+300640000018,Diğer dişçi çimentosu ve diğer diş dolgu maddeleri
+900130000000,Kontakt lensler
+900150410000,"Gözlük camı; görme kusuru için tek odaklı, her iki yüzü de işlenmiş, diğer maddelerden"
+900150800000,"Diğer gözlük camları; görme kusurunun giderilmesine mahsus, diğer maddelerden"
+900410910000,Plastik camlı güneş gözlükleri
+900410990000,Diğer güneş gözlükleri
+900490100019,Plastik camlı diğer gözlükler
+901831900013,Diğer maddelerden tıpta kullanılan şırıngalar
+901832100011,Metalden boru şeklinde şırınga iğnesi (bir kullanımlık)
+901832100019,Metalden boru şeklinde diğer iğneler
+901832900000,Cerrahi dikiş iğneleri
+901839000011,Serum ve kan verme seti kanülü
+901839000014,İdrar sondası - nelaton
+901839000015,İdrar sondası - foley
+901839000017,"Damar içi kataterler - steril, tek kullanımlık, anjiyografi için"
+901839000018,"Damar içi kataterler - steril, tek kullanımlık, (santral venös kateterleri)"
+901839000021,"Damar içi kataterler - steril, tek kullanımlık, (balonla dilatasyon için"
+901839000022,"Damar içi kataterler - steril, tek kullanımlık, iğne ile birlikte olan periferik olanlar"
+901839000039,"Tıpta, cerrahide, dişçilikte ve veterinerlikte kullanılan kanül, katater benzeri diğer aletler"
+901849100000,"Dişçi tornalarında kullanılmaya mahsus bilenler, diskler, delici uçlar vs."
+901849900000,Dişçilikte kullanılan diğer alet ve cihazlar
+901850100000,Göz tıbbına ait optik olmayan diğer alet ve cihazlar
+901850900000,Göz tıbbına ait optik diğer alet ve cihazlar
+901890100011,Kan basıncını ölçmeye mahsus elektronik tansiyon aleti
+901890200000,Endoskoplar
+901890300011,Böbrek makineleri
+901890300013,Diyaliz ve fistula setleri
+901890300019,Diğer böbrek dializ cihazları (böbrek makinası ve diyalizörler)
+901890400000,Diyatermi cihazları
+901890500011,Transfüzyon ve infüzyon cihazları
+901890500012,Kan torbaları
+901890500019,Tıp bilimlerinde kullanılan diğer transfüzyon ve infüzyon aparatlar
+901890750000,Sinir stimilasyonu cihazları
+901890840012,Her nevi bisturiler
+901890840019,"Tıpta, cerrahide, dişçilikte ve veterinerlikte kullanılan diğer alet ve cihazlar"
+901920000018,"Ozonoterapi, oksijenoterapi, aeroterapi, suni teneffüs veya diğer terapik teneffüs cihazları"
+901920000025,"Ozonoterapi, oksijenoterapi, aeroterapi, suni teneffüs veya diğer terapik teneffüs cihazlarının aksam ve parçaları"
+902110900012,"Kırıklara mahsus kemik tespit malzemesi (implantlar) (tıbbi çiviler, tıbbi plaklar dahil) (paslanmaz çelikten)"
+902129000000,Protez diş bağlantı parçaları
+902131000000,Suni eklemler
+902139900011,İnter - okiler lensler
+902139900012,Kalp kapakçıkları
+902139900013,Diğer uzuv ve organ iç protezleri
+902139900014,Diğer uzuv ve organ dış protezleri
+902139900019,Vücudun suni diğer parçaları
+844331000000,"Baskı, kopya veya faks geçiş fonksiyonlarının iki veya daha fazlasını yapan makinalar; bilgiişlem/networke bağlanabilen"
+844332101000,Otomatik bilgi işlem makinalarına/networke bağlanabilen ink jet tipi yazıcılar
+844332109019,Otomatik bilgi işlem makinalarına/networke bağlanabilen diğer yazıcılar
+847130000000,Portatif nümerik otomatik bilgi işlem makineleri; ağırlık=<10 kg.
+847150001000,Sivil hava taşıtları için numerik bilgi işlem birimleri
+847150009000,Diğerleri için numerik bilgi işlem birimleri
+847160609000,Diğer yerlerde kullanılan klavyeler
+847160701000,Sivil hava taşıtları için diğer giriş/çıkış birimleri
+847160709011,Optik okuyucular
+847160709014,Mouse
+847160709016,Digitizer
+847160709019,Diğer giriş/çıkış birimleri
+847170209000,Diğer yerlerde kullanılan ana bellek birimleri
+847170509000,Diğer yerlerde kullanılan hard disk sürücüsü
+847170709000,Diğer yerlerde kullanılan diğer disk birimleri
+847170989000,Diğer yerler için diğer bellek birimleri
+847180000000,Otomatik bilgi işlem makinelerinin diğer birimleri
+847290300000,Otomatik vezne makinaları (ATM'ler)
+847330200000,"Otomatik bilgi işlem makine ve ünitelerinin birleştirilmiş elektronik aksam, parçası"
+847330800000,"Otomatik bilgi işlem makine ve ünitelerinin diğer aksam, parçası"
+851711000000,Kordonsuz ahizeli telli telefon cihazları
+851712000011,Alıcısı bulunan verici portatif (Cellular) telsiz telefon cihazları
+851718000019,Diğer telefon cihazları; diğerleri
+851761001000,"Ses, görüntü/diğer bilgileri almaya/vermeye mahsus baz istasyonları; hücresel ağ için olan"
+851762001000,"Ses, görüntü/diğer bilgileri almaya, çevirmeye, vermeye/yeniden oluşturmak için makina; hücresel ağ için olan"
+851762009000,"Ses, görüntü/diğer bilgileri almaya, çevirmeye, vermeye/yeniden oluşturmak için makina; diğerleri"
+851769100000,Görüntülü telefon cihazları
+851770000000,"Telefon cihazları, ses, görüntü veya diğer bilgileri almaya veya vermeye mahsus diğer cihazlar için aksam ve parçalar"
+851810959000,Diğer mikrofonlar ve bunların mesnetleri
+851821000000,Kabinine monte edilmiş tek hoparlörler
+851822000000,Ayni kabine monte edilmiş birden fazla hoparlörler
+851829950000,Diğer çeşit diğer hoparlörler kabinlerine monte edilmiş/edilmemiş
+851830951000,"Sivil hava taşıtları için kulaklıklar,bir mikrofon ve bir/daha fazla hoparlör içeren setler"
+851830959000,Diğer kulaklıklar ve bir mikrofon ve bir veya daha fazla hoparlör içeren diğer setler
+851989000000,Ses kaydetme veya kaydedilen sesi tekrar vermeye mahsus diğer cihazlar
+852190000000,Diğer video kayıt ve gösterme cihazları
+852351100000,"Yarı iletken mesnetler, katı hal kalıcı depolama aygıtlar (kayıt yapılmamış)"
+852352009000,Sesleri ve diğer fenomenleri kaydetmeye mahsus yarı iletken diğer akıllı kartlar
+852580190011,Yalnız görüntü veren diğer televizyon kameraları
+852580190012,Hem ses hem görüntü veren diğer televizyon kameraları
+852580910000,Sadece televizyon kameralarının aldığı ses ve görüntüleri kaydedebilen kameralar
+852580990000,Görüntü kaydedici diğer kameralar
+852610000012,Meteorolojik radarlar
+852610000019,Diğer radarlar
+852691800013,Uydu seyrüsefer telsiz alıcıları
+852691800019,Diğer telsiz seyrüsefer yardımcı cihazları
+852692002000,"Uzaktan kumanda etmeye mahsus telsiz cihazları, sivil hava taşıtlarında kullanılmaya mahsus olanlar"
+852692009014,"Uzaktan kumanda etmeye mahsus telsiz cihazları, diğerleri, kablosuz ateşleme/tetikleme sistemleri"
+852692009019,"Uzaktan kumanda etmeye mahsus telsiz cihazları, diğerleri (kablosuz ateşleme/tetikleme sistemleri hariç)"
+852721200000,"Motorlu taşıtlar için lazer okuma sistemli radyo teyp; Numerik Radyo Data sinyal alan ve çözen,harici güç kaynaklı"
+852852100000,Sadece veya esas itibariyle 84.71 pozisyonunda yer alan otomatik bilgi işlem makinalarında kullanılan diğer monitörler
+852852910000,LCD monitörler; 84.71 pozisyonundaki otomatik bilgi işlem makinaları ile kullanılmak üzere tasarlanmış
+852859000000,Diğer monitörler
+852862000000,Projektörler; 84.71 pozisyonundaki otomatik bilgi işlem makinaları ile kullanılmak üzere tasarlanmış
+852871910000,"Diğer tv alıcıları; internet, interaktif bilgi değişim fonksiyonlu, mikro-işlemci esaslı aygıtı olan"
+852910809000,Diğerleri için anten filtreleri ve separatörler
+852910959019,Antenlere ait diğer aksam ve parçalar
+852990659000,"Radyo, televizyon, radar cihazları vb cihazların birleştirilmiş elektronik aksam ve parçaları"
+852990920000,"Diğer televizyon kamerası, monitör,projektör,TV alıcı cihazları,radyo yayınları alıcı cihazlarının diğer aksam - parçası"
+853110300019,Binalar için hırsızlığa ve yangına karşı alarm vb. cihazlar
+853400110019,Bağlantı elemanı ve iletken yolu olan diğer baskılı devre
+853400190011,Bağlantı elemanı ve iletken yolu olan diğer çeşit elastiki baskılı devre
+853400190019,Bağlantı elemanı ve iletken yolu olan diğer çeşit diğer baskılı devre
+853400900019,Diğer pasif elemanlı diğer baskı devreler
+854110000019,Diğer diyodlar (ışığa duyarlı veya ışık yayan diyodlar (LED) hariç)
+854129000012,Bacakları takılmış transistörler (güç>1 W.) (ışığa duyarlı transistörler hariç)
+854129000019,Diğer transistörler (güç >1 W.) (ışığa duyarlı transistörler hariç)
+854140100000,Işık yayan diyodlar (LED) (Lazer diyodlar dahil)
+854140900012,"Fotodiyodlar, fototransistörler, fototristörler veya optik bağlaçlar (fotocouples)"
+854140900015,Işığa duyarlı yarı iletken fotovoltaik (solar) hücreler
+854140900019,Işığa duyarlı yarı iletken diğer tertibat
+854160000011,Kristal ve seramikten filtreler
+854160000019,Diğer monte edilmiş piezo elektrik kristaller
+854231110000,Çok komponentli elektronik entegre devreli işlemciler ve kontrolörler(MCO);faslın 9 (b) (3 ve 4) nolu notunda belirtilen
+854231190000,Elektronik entegre devreli diğer işlemciler ve kontrolörler; bu faslın 9 (b) (3 ve 4) nolu notunda belirtilmiş olan
+854231900000,Elektronik diğer entegre devreler ve diğer işlemci ve kontrolörler
+854232190000,Elektronik entegre devreli diğer bellekler; bu faslın 9 (b) (3 ve 4) nolu notunda belirtilmiş olan
+854232390000,Bellek; dinamik rastgele erişim ana bellekler (D-RAM'lar) (bellek kapasite: >512 Mbit)
+854232610000,"Bellek; elektrikle silinebilen, programlanan, sadece okunabilen (E2PROM'lar) (bellek kapasitesi: <512 Mbit)"
+854232690000,"Bellek; elektrikle silinebilen, programlanan, sadece okunabilen (E2PROM'lar) (bellek kapasitesi: >512 Mbit)"
+854232900000,Bellek; diğerleri
+854233900000,Elektronik entegre devreli diğer yükselteçler
+854239110000,Çok komponentli elektronik diğer entegre devreler (MCO); bu faslın 9 (b) (3 ve 4) nolu notunda belirtilmiş olanlar
+854239190000,Elektronik diğer entegre devreler; bu faslın 9 (b) (3 ve 4) nolu notunda belirtilmiş olanlar
+854239900000,Diğer entegre devreleri
+900190009100,"Diğer kullanım için camdan mercekler, aynalar, prizmalar, optik elemanlar"
+900190009900,"Diğer kullanım için diğer maddelerden mercekler, aynalar, prizmalar, optik elemanlar"
+900219009000,Diğer optik cihazların diğer madde objektif mercekleri
+900290001100,"Sivil hava taşıtları için diğer amaçlı kamera, projektör vb. camdan diğer elemanları"
+900290009100,"Diğer kullanım için için diğer amaçlı kamera, projektör vb. camdan diğer elemanları"
+900510000000,Çift gözlü dürbünler
+901210900011,Diğer elektron mikroskopları ve proton mikroskoplar
+901310900019,"Diğer teleskoplar, teleskopik cihazlar"
+901320000090,Lazerler (lazer diyodları hariç); silahlar için olanlar hariç
+901420201900,Diğer kullanımlar için düşük sürati gösteren elektrikli/elektronik alet ve cihazlar
+901420209900,Diğer kullanımlar için düşük sürati gösteren diğer alet ve cihazlar
+901420801000,"Diğer havacılık, uzay yolculukları için (elektrikli/elektronik) sistem"
+901480001000,"Akustik ve ultrasonik iskandil aletleri, ultrasonik detektör"
+901480009011,Deniz ve nehir seyahatleri için elektronik alet ve cihazlar
+901480009019,Diğer seyrüsefer alet ve cihazları
+901490009900,Diğer seyrüsefer alet ve cihazların aksam ve parçaları
+901580200019,Hidrolojiye ait elektronik alet ve cihazlar
+901580801000,Oşinografi için elektrikli diğer alet ve cihazlar
+901590001019,"Elektrikli/elektronik arazi ölçme,hidrografi,oşinografi,hidroloji, jeofizik alet ve cihazlarının aksam, parça, aksesuarı"
+901590009000,"Arazi ölçme, hidrografi, oşinografi, hidroloji, jeofizik, meteoroloji alet ve cihazlarının diğer aksam, parça, aksesuarı"
+901730001000,"Elektrikli veya elektronik mikrometreler, kalibreler ve mikyaslar"
+901730009000,"Mikrometreler, kalibreler ve mikyaslar; elektrikli veya elektronik olanlar hariç"
+901811000000,Elektrokardiyograflar (EKG)
+901812000000,Ultrasonik tetkik cihazları
+901813000000,Manyetik rezonansla görüntüleme cihazları
+901819100000,İki/daha fazla parametrenin eşzamanlı olarak takibi için izleme tertibatı
+901819900011,Elektroensefaloğraf cihazları (EEG)
+901819900019,Diğer elektro teşhis cihazları
+902140000000,İşitme cihazları
+902150000011,Dahili kalp pilleri
+902190100000,"İşitme cihazlarının aksam, parça, aksesuarı"
+902214000000,"Tıbbi, cerrahi veya veterinerlik amaçlı X ışınlı cihazlar"
+902219000000,Diğer X ışınlı cihazlar
+902290200000,X-Işını kullanarak çalışan aletlere ait aksam parça ve aksesuar
+902519201100,Sivil hava taşıtları için elektronik termometre
+902519201911,Diğer kullanım için kayıt edici tertibatı olan elektronik termometreler
+902519201919,Diğer kullanım için kayıt edici tertibatı olmayan elektronik termometreler
+902519802100,Sivil hava taşıtları için diğer termometre
+902519802219,Kayıt edici tertibatı olmayan elektrikli termometreler
+902519802900,Diğer termometreler
+902610219000,Diğer kullanım için elektronik debimetreler
+902610291000,Sivil hava taşıtları için sıvıların akışını/seviyesini ölçmeye mahsus diğer elektronik cihazlar
+902620201000,Sivil hava taşıtları için basınç ölçmeye/kontrol etmeye mahsus elektronik cihazlar
+902620209000,Diğer kullanım için basınç ölçmeye/kontrol etmeye mahsus elektronik cihazlar
+902620801000,Sivil hava taşıtları için basınç ölçmeye/kontrol etmeye mahsus diğer cihazlar
+902620802000,Sıvı ve gazlar için basınç kontrol anahtarları; sivil hava taşıtlarında kullanılmaya mahsus olanlar HARİÇ
+902620808000,Sıvı ve gazlar için basınç ölçmeye veya kontrol etmeye mahsus diğer cihazlar;sivil hava taşıtlarında kullanılanlar HARİÇ
+902710100000,Elektronik gaz/duman analiz cihazları
+902710900000,Diğer gaz ve duman analiz cihazları
+902720000000,Kromatograflar ve elektroforez cihazları
+902730000011,Spektrometreler
+902750000000,"Optik ışınlı diğer alet ve cihazlar (uv, görülebilir ışınlar, ır)"
+902780110000,"Elektronik ph metreler, rh metreler ve iletkenliği ölçen diğer aletler"
+902780170000,"Optik ışınlı alet ve cihazlar, elektronik, diğer"
+902780990000,Fiziksel ve kimyasal analiz için diğer alet ve cihazlar
+902790500000,"Kromatograf, elektroforez, yüzey gerilimi, genleşme vb.özellikleri ölçen alet, cihazl.aks."
+902790800000,"Fiziksel ve kimyasal analiz cihazlarının aksam, parça ve aksesuar"
+902910002000,"Elektronik veya elektrikli olan devir adedi sayaçları, üretim sayaçları, taksimetreler, milometreler , pedometreler vb"
+902920311000,Taşıtlar için elektronik/elektrikli hız göstergeleri
+902920389000,Diğer hız göstergeleri ve takometreler
+903033309000,"Gerilim/akım/güç ölçmeye/muayene etmeye mahsus elektronik diğer alet, cihazlar; sivil hava taşıtların için olanlar HARİÇ"
+903082000000,"Yarı iletken disklerin, tertibatın ölçülmesine, kontrolüne mahsus cihazlar"
+903090009000,"Elektrik miktarını ölçme, iyonlaşma ışınlarını tespit eden alet ve cihazların diğer aksam, parçaları"
+903120001000,Elektronik/elektrikli deney standları
+903149900000,Diğer optik alet ve cihazlar
+903180809000,"Diğer ölçme veya muayene alet, cihaz ve makinalarının diğerleri"
+903220001000,Sivil hava taşıtları için basınç kontrol cihazları (manostatlar);
+903220009011,Diğer kullanım için elektronik basınç kontrol cihazları
+903220009019,Diğer kullanım için diğer basınç kontrol cihazları
+903281001000,Sivil hava taşıtları için hidrolik veya pnömatik alet ve cihazlar
+903281009011,Hidrolik veya pnömatik seviye kontrol cihazları
+903281009012,Hidrolik veya pnömatik bacalardan otomatik olarak duman çekme regülatörleri
+903281009019,Hidrolik veya pnömatik diğer alet ve cihazlar
+903289000000,Diğer alet ve cihazlar
+910221000000,Kol saati; otomatik kurmalı olan diğerleri
+950450000000,Eğlence merkezleri için video oyun konsolları ve makineleri (9504.30 alt pozisyonundakiler hariç)
+841451002000,"Evde kullanılan kendinden elektrik motorlu masa, yer, duvar, pencere, tavan veya çatı fan; gücü 125 W.ı geçmeyen"
+850110100000,Senkron motorlar; gücü <=18 W
+850110939000,"Diğer alternatif akım (AC) motorları; güç =< 37, 5 W."
+850110999000,"Diğer doğru akım (DC) motorları; güç =< 37, 5 W"
+850120009000,"Diğer kullanım için üniversal alternatif akım/doğru (AC/DC) motorları; güç > 37, 5 W"
+850131001011,Sivil hava taşıtları için diğer doğru akım (DC) motorları; 37.5 W < güç =< 750 W
+850131009011,Diğer kullanım için doğru akım (DC) motorları; 37.5 W < güç =< 750 W
+850140202900,Diğer kullanım için alternatif akım motorları (AC) (tek fazlı); güç <= 37.5 W
+850140801100,"Alternatif akım motorları (AC) (tek fazlı); 750 W < güç < 7, 5 kW"
+850152209000,"Diğer yerlerde kullanılan çok fazlı alternatif akım (AC) motorları; 750 W < güç =< 7,5 kW"
+850162009300,Diğer kullanım için alternatif akım (AC) jeneratörleri;100 kVA
+850239801100,Diğer kullanım için diğer elektrojen grupları; güç < 100 kVA
+850239801300,Diğer kullanım için diğer elektrojen grupları; güç > 100 kVA
+850440301011,Kesintisiz güç kaynakları (güç kaynağı üniteleri otomatik bilgi işlem makineleriyle kullanılacak olan)
+850440301019,Diğer güç kaynakları (güç kaynağı üniteleri otomatik bilgi işlem makineleriyle kullanılacak olan)
+850440302000,"Sivil hava taşıtları için telekomünikasyon cihazı, otomatik bilgi işlem makinaları vb. için kullanılan statik konvertör"
+850440309000,"Diğer kullanım için telekomünikasyon cihazı, otomatik bilgi işlem makinası vb. için kullanılan statik konvertör"
+850440551000,Sivil hava taşıtları için akümülatör şarj ediciler
+850440559000,Diğer kullanım için akümülatör şarj ediciler
+850440829000,Diğer kullanım için redresörler
+850440841000,"Sivil hava taşıtları için invertörler; güç =<7, 5kVA"
+850440849000,"Diğer kullanım için invertörler; güç =<7, 5kVA"
+850440889000,"Diğer kullanım için invertörler; güç >7, 5kVA"
+850440901000,Sivil hava taşıtları için diğer statik konvertörler
+850440909011,Kesintisiz diğer güç kaynakları (sivil hava taşıtlarında kullanılanlar HARİÇ)
+850440909019,Diğer statik konvertörler (sivil hava taşıtlarında kullanılanlar HARİÇ)
+850520000000,"Elektromanyetik kaplinler, kavramalar ve frenler"
+850650100000,Lityumlu silindirik piller
+850650900000,Lityumlu diğer piller
+850720800000,Kurşun-asitli diğer akümülatörler
+850750000000,Nikel-metal hidrürlü elektrik akümülatörleri
+850760000000,Lityum iyonlu elektrik akümülatörleri
+850790800000,Akümülatörlerin diğer aksam ve parçaları *
+850811000011,"Kendinden elektrikli vakumlu süpürge; gücü =<1500 Wat, toz torbasına sahip veya toplama kapasitesi=<20 lt, gerilim>=110V"
+851020000011,Elektrikli saç kesme makineleri
+851030000000,Elektrikli epilasyon cihazları
+851220000012,Her türlü farlar (monoblok farlar hariç)
+851521000000,Metallere rezistans kaynağı için tamamen/kısmen otomatik cihazlar
+851650000000,Mikro dalgalı fırınlar
+851680200011,Taşıtlarda kullanılan elektrikli ısıtıcı rezistanslar; izole edici bir mesnet üzerine monte edilmiş
+851680800011,Taşıtlarda kullanılan elektrikli ısıtıcı diğer rezistanslar
+853010000000,Demiryolları/tramvaylar için sinyalizasyon vb. kumanda cihazları
+853080000011,"Liman, hava meydan trafik kontrol kumanda cihazları"
+853120200000,Gösterge tabloları; ışık veren diyod tertibatlı olanlar (LED)
+853190000000,Elektrikli ses veya görüntülü işaret cihazlarının aksam ve parçaları
+853224000000,Seramik dielektrikli sabit kondansatörler (çok katlı)
+853229000019,Diğer sabit kondansatörler
+853321000019,Bağlantı bacakları olmayan diğer sabit rezistans güç kapasitesi=<20 w.
+853530900012,"Yük ayırıcıları (gerilim=>72, 5 kV)"
+853620900019,Diğer otomatik devre kesiciler (akım >63 amp.)
+853630100000,Elektrik devrelerini koruyan diğer teçhizat (akım<16 amp.)
+853641900000,"Röleler (anma gerilimi =< 60 v, anma akımı >2 amp.)"
+853649000011,"Kontaktörler; anma akımı 170 A.i (anma gücü AC 3, 380 V.da 90 kW.ı) geçmeyen"
+853649000029,Diğer çeşit röleler
+853650050000,Bir transistor ve lojik cip iihtiva eden elektronik anahtarlar (chip-on chip technology)
+853650110000,Basma düğmeli diğer anahtarlar (anma gerilimi=<60 v.)
+853650190000,Diğer elektrik anahtar (anma gerilimi =< 60 v.)
+853650800018,Gerilimi 1000 voltu geçmeyen elektrik devrelerinin anahtarlanması için diğer elektrik teçhizatı
+853669300000,Baskı devreler için bağlantı ve irtibat elemanları
+853669900018,Diğer çeşit fişler ve soketler
+853670001000,"Plastikten konektörler; optik lifler, optik lif demetleri veya kabloları için"
+853670002000,"Seramikten konektörler; optik lifler, optik lif demetleri veya kabloları için"
+853670003000,"Bakırdan konektörler; optik lifler, optik lif demetleri veya kabloları için"
+853670005000,"Demir veya çelikten konektörler; optik lifler, optik lif demetleri veya kabloları için"
+853690100000,Tel ve kablolar için bağlantı ve irtibat elemanları
+853710910000,Programlanabilir hafızalı kumanda cihazı (gerilim=<1000 v.)
+853710950000,"Dokunmatik veri giriş cihazları (touch screen); algılayan, bir cihaza takılmak için tasarlanmış, gerilimi <= 1000 volt"
+853710980019,"Elektriğin kontrol/dağıtımına mahsus diğer panolar, konsollar, masalar, kabinler ve diğer mesnetler (gerilim =< 1000 v.)"
+853890910000,Diğer birleştirilmiş elektronik aksam ve parçaları
+853890990012,"Otomatik devre kesicilerin (gerilim =<72, 5 kv.) vakum tüpleri (8535.21 için)"
+853890990039,Diğer elektirk devresi teçhizatı aksam ve parçaları
+853931900019,Sıcak katodlu diğer flüoresan ampuller
+853950000000,LED ampuller
+854320000000,Sinyal jeneratörleri
+854370900012,Yüksek frekans (RF) veya ara frekans (IF) yükselteçleri
+854370900013,Ses birleştirme üniteleri
+854370900015,Infrared ile çalışan uzaktan kumanda cihazları (remote control)
+854370900019,Kendine has fonksiyonlu elektrikli diğer makine ve cihazlar
+854442900000,Bağlantı parçaları takılmış olan (gerilimi:<1000 V.) diğer elektrik iletkenleri; diğer yerde kullanılan *
+854449931919,"Diğer elektrik iletkenleri (diğer, gerilimi<=80 V. için)"
+854449991919,"Diğer , gerilimi 1000V olan elektrik iletkenleri;diğerleri"
+854511000011,Ark ocağı için elektrotlar; fırınlarda kullanılmaya mahsus
+854511000019,Fırınlarda kullanılan diğer elektrotlar
+854890909000,Diğer makine ve cihazların elektrikli diğer aksam ve parçaları
+900110101000,Camdan görüntü iletici kablolar
+900110909900,"Optik tarzda işlenmiş olan diğer maddelerden optik lifler, optik Iif demetleri ve kabloları"
+940510985000,Diğer çeşit ampul ve tüp kullanımı için adi metallerden aydınlatma cihazı
+940540100000,Projektörler
+940540390000,Plastikten diğer çeşit diğer elektrikli aydınlatma cihazları
+731512000011,Demir/çelikten diğer transmisyon zincirleri
+840681000000,"Buhar türbinleri; deniz taşıtları dışında kullanılan, Güç>40MW"
+840690900000,Buhar türbinlerine ait diğer aksam; parçalar
+840810890000,Kullanılmamış diğer deniz taşıtlarının diz.motoru; 1000 kW
+840820310000,Tarım ve ormancılıkta kullanılan traktörler için dizel motor; güç=< 50 kW
+840820350000,Tarım ve ormancılıkta kullanılan traktörler için dizel motor; 50 kW
+840820370000,Tarım ve ormancılıkta kullanılan traktörler için dizel motor; güç>100 kW
+840890479000,Diğer taşıtlar için dizel yeni motorlar; 50 kW
+840890619000,Diğer taşıtlar için dizel yeni motorlar; 100 kW
+840890679000,Diğer taşıtlar için dizel yeni motorlar; 300 kW
+840890819000,Diğer taşıtlar için dizel yeni motorlar; 500 kW
+840890859000,Diğer taşıtlar için dizel yeni motorlar; 1000 kW
+841013000000,"Su türbinleri, su çarkları; güç>10000 kW"
+841181001000,Sivil hava taşıtları için diğer gaz türbinleri (itici güç =< 5000 kW)
+841199001000,Sivil hava taşıtları için gaz türbinlerine ait aksam; parçalar
+841320009000,Diğer yerlerde elle kullanılan sıvı pompalar
+841330209000,Diğer yerlerde kullanılan içten yanmalı motorlar için enjeksiyon pompaları
+841330809000,Diğer yerlerde kullanılan içten yanmalı motorlara ait diğer yakıt/soğutma pompaları
+841360209000,Diğer yerlerde kullanılan döner deplasmanlı hidrolik pompalar
+841360619000,"Diğer yerlerde kullanılan diğer döner deplasmanlı kanatlı, hidrolik yağ pompaları"
+841370309000,Diğer yerlerde kullanılan ısıtmada/sıcak su temininde kullanılan salmastrasız çarklı pompaları
+841370519000,"Diğer yerlerde kullanılan tek kademeli, çarkı tek girişli, yekpare gövdeli,radyal akışlı pompa; çıkış ağzı çapı>15 mm."
+841370599000,"Diğer yerlerde kullanılan tek kademeli, çarkı tek girişli, diğer gövdeli,radyal akışlı pompalar; çıkış ağzı çapı>15 mm."
+841370759000,"Diğer yerlerde kullanılan çok kademeli,radyal akışlı pompalar; çıkış ağzı çapı>15 mm."
+841410259000,"Diğer yerlerde kullanılan döner pistonlu, kayar kanatlı döner, moleküler ve ruts tipi pompa"
+841410899000,Diğer kullanım için diğer vakum pompaları *
+841430209000,"Diğer yerlerde kullanılan soğutma cihazları için kompresör; gücü =<0, 4 kW"
+841430819000,"Diğer yerler için soğutma cihazlarında kullanılan hermatik/yarı hermetik kompresör; gücü > 0, 4 kW"
+841430899000,"Diğer yerler için soğutma cihazlarında kullanılan diğer kompresör; gücü > 0,4 kW"
+841459259000,Diğer yerlerde kullanılan eksenel (aksiyal) fanlar
+841459359000,Diğer yerlerde kullanılan santrifüjlü fanlar
+841480119000,Diğer yerlerde kullanılan tek kademeli turbo kompresör
+841480199000,Diğer yerlerde kullanılan çok kademeli turbo kompresör
+841480229000,"Diğer yerlerde kullanılan pistonlu kompresör; monometre basıncı =<15 bar, debisi =< 60 m3/h"
+841510900011,"Klima; pencere/duvar/tavan/zemine sabitlenecek, tek bir gövde, ayrı elemanlı(split-sistem), değişken debili (VRF)"
+841520000000,Motorlu taşıtlarda şahıslar için kullanılan türden klimalar *
+841582009000,Diğer yerler için soğutma üniteli klimalar
+841590009002,Klima cihazı split sistemlerinin dış üniteleri (değişken debili (VRF)) (sivil hava taşıtlarında kullanılanlar HARİÇ)
+841590009012,Split sistemlerin iç üniteleri (klima cihazlarının) (sivil hava taşıtlarında kullanılanlar hariç)
+841590009019,Klima cihazlarının diğer aksam ve parçalar (sivil hava taşıtlarında kullanılanlar hariç)
+841780300000,Seramik ürünlerin fırınlanmasına mahsus fırınlar ve ocaklar; elektriksiz
+841869001000,Kondenserleri ısı değiştiricisi fonksiyonu gören kompresörlü üniteler
+841869009919,Diğer soğutucu veya dondurucu cihazlar *
+841932000000,"Ağaç, kağıt hamuru, kağıt/kartonlar için kurutucular"
+841950800000,Isı değiştiricilerin (eşanjörler) diğerleri
+841960000000,Hava/diğer gazları sıvılaştırmaya mahsus makineler
+841981200011,Kahve ve diğer sıcak içecekleri yapmaya mahsus perkolatör ve diğer elektrikli cihazlar
+841989989019,"Isı değişikliği yoluyla maddelerin işlenmesi için diğer makine, tesis ve cihazlar"
+842129800011,Sıvıların filtre edilmesine veya arıtılmasına mahsus diyalizörler
+842139251000,Sivil hava taşıtları için havanın filtre edilmesi/arıtılması için makina ve cihazlar
+842139351000,Sivil hava taşıtları için katalitik işlem esaslı diğer gazların filtre edilmesi/arıtılması için makina ve cihazlar
+842139359000,Diğer yerler için katalitik işlem esaslı diğer gazların filtre edilmesi/arıtılması için makina ve cihazlar
+842139851000,Gazların filtre edilmesi veya arıtılmasına mahsus diğer makine ve cihazlar; sivil hava taşıtları için
+842139859000,Gazların filtre edilmesi veya arıtılmasına mahsus diğer makine ve cihazlar
+842199900019,Santrifüjler ile sıvıların/gazların fiItre edilmesine/arıtılmasına mahsus makina ve cihazlarin diğer aksam ve parçaları
+842230000000,"Şişe, kutu, çuval vb. doldurma, kapama, mühürleme, etiketleme, kapsülleme, içecekleri gazlandırma makineleri"
+842240000000,Diğer paketleme veya ambalajlama makinaları (ısı ile büzerek ambalajlamaya mahsus makinalar dahil)
+842290900011,Diğer paketleme/ambalajlama makinelerine ait aksam ve parçalar
+842410000000,Yangın söndürme cihazları (doldurulmuş olsun olmasın)
+842641009000,Lastik tekerlekli kendinden hareketli diğer makine ve cihazlar
+842710100000,Elektrik motorlu kendinden hareketli forklift ve diğer yük arabaları; kaldırma yüksekliği=>1 m.
+842710900000,Elektrik motorlu kendinden hareketli forklift ve diğer yük arabaları; kaldırma yüksekliği<1 m.
+842720190000,Kendinden hareketli diğer forklift ve yük arabaları; kaldırma yükseklik=>1 m.
+842810209011,İnsan taşıma için elektrikli asansör ve skipli yük kaldırıcıları
+842839909000,Diğer kullanımlar için diğer sürekli hareketli diğer elevatör ve konveyörler
+842840000000,Yürüyen merdiven ve yürüyen platformlar
+842860000000,"Teleferikler, telesiyejler ve teleskiler; fünikülerler için çekiş mekanizmaları"
+842890710000,Zirai traktörlere takılmak için özel imal edilmiş yükleyici
+842890909000,Sivil hava taşıtlarında kullanılmayan diğer kaldırma vb.makina ve cihazlar
+842930000000,Skreyperler
+842952100000,Kulesi 360 derece dönebilen ekskavatörler
+843351000021,"Biçer döverler; kendinden hareketli, biçme ağzı genişliği 2 m'yi geçen"
+843359110000,Kendinden hareketli silaj makineleri
+843359850011,Pamuk hasat makinaları; kendinden hareketli
+843360000011,Meyve ve sebzeleri ağırlık ve büyüklüklerine göre ayıran makine ve cihazlar
+843920000000,Kağıt/karton imaline mahsus makine ve cihazlar
+844110709000,Kağıt kesme makinaları; fotoğrafçılık duşında kullanılanlar
+844140000000,"Kağıt hamuru, kağıt/kartondan kalıpla eşya imaline mahsus makineler"
+844180000019,"Kağıt hamuru, kağıt, karton işleyen diğer makine ve cihazlar"
+844399100000,"Baskı makinasının birleştirilmiş elektronik aksam, parçası"
+844399909000,"Diğer maddeler üzerine baskı yapan makinanın diğer maddelerden aksam, parçası"
+844400100000,"Dokumalık, sentetik/suni lif ekstrüzyonu için makine ve cihazlar"
+844400900000,"Dokumalık maddeler için tekstüre, çekme, kesme makine ve cihazları"
+844511000000,Dokumalık elyafın hazırlanması için karde makineleri (tarak makineleri)
+844512000000,Dokumalık elyafın hazırlanması için tarama makineleri (penyöz)
+844513000000,"Şerit halindeki lifleri uzatan, büken ve iplik taslağı haline getiren makineler"
+844519009019,Dokumaya elverişli elyafın hazırlanmasına mahsus diğer makineler
+844520000011,Open - end eğirme makinaları
+844520000012,Ring eğirme makineleri
+844520000019,Dokumaya elverişli lifleri eğirmeye mahsus diğer makineler
+844530000000,Dokumaya elverişli lifleri katlama veya bükmeye mahsus makinalar
+844540000019,Dokumaya elverişli lifleri bobinleme ve çilelemeye mahsus diğer makineler
+844621000000,"Dokuma makinesi (tezgahlar); motorlu, mekikli, kumaş genişliği>30cm."
+844630000000,"Dokuma makineleri (tezgahlar); mekiksiz, kumaş genişliği> 30 cm."
+844711000012,Sanayi tipi yuvarlak (dairevi) örgü makinaları; silindir çapı<=165mm
+844712000012,Sanayi tipi yuvarlak (dairevi) örgü makinaları; silindir çapı>165mm
+844720200012,Sanayi tipi düz örgü makineleri
+844720800000,Diğer çözgülü örgü makineleri
+844790000011,İşleme makineleri
+844790000019,"İplik ,tül,dantela,file,püskül,ponpon imaline mahsus diğer makina ve cihazlar"
+844851900011,Örgü makinelerine ait iğneler
+844859000019,"Örgü, dikiş, trikotaj makinelerinde kullanılan diğer aksam; parçalar"
+844900001000,"Şekilli/parça halinde keçe/dokunmamış mens.imal, finisaj makineleri, keçeden şapka imaline mahsus mak., şapka kalıpları"
+845210190000,"Ev tipi dikiş makineleri,sadece düz dikiş yapan motorlu, motorsuz ve başları; diğerleri"
+845221000000,Otomatik üniteli dikiş makineleri
+845229000000,Diğer dikiş makineleri
+845521000012,Bandaj ve vagon tekerleklerine mahsus hadde makineleri(Sıcak ve kombine haldeki sıcak ve soğuk hadde)
+845522000000,Soğuk hadde makineleri
+845710100000,Metal işlemeye mahsus yatay işleme merkezleri
+845710900000,Metal işlemeye mahsus diğer işleme merkezleri
+845730100000,Nümerik kontrollü çok istasyonlu transfer tezgahları
+845811200000,Nümerik kontrollü yatay tornalama merkezleri
+845811410000,Nümerik kontrollü tek milli otomatik yatay torna tezgahları
+845811800019,"Nümerik kontrollü, metal işlemeye mahsus yatay diğer metal işleyen torna tezgahları"
+845891800000,Nümerik kontrollü diğer torna tezgahları
+846210100019,Nümerik kontrollü kalıpta dövme tezgahları ve çekiçleri
+846693600000,"84.56 ila 84.61 pozisyonlarındaki diğer makinalara ait aksam, parça ve aksesuar"
+846729200000,Harici bir güç kaynağı olmaksızın çalışabilen kendinden elektrik motorlu diğer el aletleri
+846729510000,Elle kullanılan köşe taşlayıcılar (Kendinden elektrik motorlu)
+846729850000,Harici bir güç kaynağı ile çalışan kendinden elektrik motorlu diğer el aletleri
+846781000000,Zincirli testereler
+847050000011,Yazar kasalar (satış noktası terminalleri-POS makinaları)
+847050000019,Yazar kasalar (diğerleri)
+847710000000,Enjeksiyon makinaları; kauçuk/plastik eşya işlemeye veya imaline mahsus
+847910000019,"Bayındırlık, inşaat vb. işlerde kullanılan diğer makine ve cihazlar"
+847930900000,Ağaç/mantar işlemeye mahsus diğer makine ve cihazlar
+847950000000,Sınai robotlar
+847982000000,"Karıştırma, yoğurma, kırma, öğütme, homojenleştirme vb. makineleri"
+847989300000,Hidrolik maden direkleri (hareketli)
+848120900000,Pnömatik güç transmisyon kontrol valfları
+848180400000,Pnömatik tekerlek ve iç lastik için valflar
+848180590000,Diğer process kontrol valfları
+848180630000,Çelikten sürgülü valflar
+848180730000,Çelikten globe (stop) valflar
+848180790000,Diğer maddelerden globe (stop) valflar
+848180870000,Diyafram valflar
+848180990019,"Borular, kazanlar, tanklar, depolar vb diğer kaplar için diğer musluklar, valfler (vanalar) ve benzeri cihazlar"
+848210100012,Bilyeli rulmanlar; 9mm
+848210900012,Bilyeli rulmanlar; 52mm
+848220000000,Konik makaralı rulmanlar (konik bilezik ve makara grupları dahil)
+848230000000,Fıçı makaralı rulmanlar
+848240000000,İğneli rulmanlar
+848250000000,Silindirik makaralı rulmanlar
+848280000000,Kombine haldeki bilyeli ve konik makaralı diğer rulmanlar
+848310211000,Sivil hava taşıtları için krank ve krank mili (dökme demir/çelikten)
+848310951000,Sivil hava taşıtları için diğer transmisyon milleri
+848320000000,Yatak kovanları (rulmanlı olanlar)
+848330381000,Sivil hava taşıtları için yatak kovanları (rulmansız) diğer rulmanlar için
+848330801000,Sivil hava taşıtları için mil yatakları
+848330809000,Diğer kullanım için mil yatakları
+848340291000,"Sivil hava taşıtları için diğer dişliler, dişli sistemleri(sürtünme dişlileri hariç)"
+848340519012,Diğer kullanım için otomatik kumandalı dişli kutular
+848340901000,"Sivil hava taşıtları için diğer dişliler, dişli sistemleri, bilyeli vidalar, dişli kutuları"
+848350200012,Kasnaklar; dökme demir/çelik dökümden
+848350800012,Kasnaklar; diğer maddelerden
+848390899019,"Diğer metallerden dişli çarklar, zincir dişliler ve diğer transmisyon elemanları (diğer kullanım için)"
+848620000000,Yarı iletken tertibatın veya elektronik entegre devrelerin imaline mahsus makine ve cihazlar
+870911900000,Diğer amaçlı elektrikli kısa mesafe taşıtlar
+840710009012,Diğer hava taşıtları için kıvılcım ateşlemeli motor; silindir hacmi >250 cm3
+840820510000,Diğer kara taşıtları için dizel motor; güç=< 50 kW
+840820550000,Diğer kara taşıtları için dizel motor; 50 kW
+840820570000,Diğer kara taşıtları için dizel motor; 100 kW
+840820990000,Diğer kara taşıtları için dizel motor; güç>200 kW
+841112301000,Sivil hava taşıtları için turbojetler (44 kn < itici güç=< 132 kn)
+841122201000,Sivil hava taşıtları için türbopropellerler (1100 kW < itici güç =< 3730 kW)
+841191001000,"Sivil hava taşıtları için turbojetler ve türbopropellerlere ait aksam, parçalar"
+851140009000,Diğer kullanım için marş motorları
+851150001000,Sivil hava taşıtları için diğer jeneratörler
+851180009019,Diğer kullanım için diğer tertibat ve cihazlar
+851230100000,Motorlu araçlarda kullanılan türdeki hırsız alarmları
+851230900019,Sesli diğer işaret cihazları
+851240000011,Elektrik motorlu cam siliciler (tekli veya ikili)
+851290900011,Aydınlatma cihazlarına ait olan diğer aksam ve parçalar
+851290900012,Sesli işaret cihazlarına ait diğer aksam ve parçalar
+851290900013,Cam silicilere ait olan diğer aksam ve parçalar
+860711000000,Çekici bojiler ve bissel bojiler
+860719100000,Demiryolu taşıtları veya tramvaylar için dingiller (monte edilmiş/edilmemiş); tekerlekler ve bunların aksam ve parçaları
+870220100000,"Hem dizel veya yarı dizel hem de tahrik gücü veren elektrik motorlu taşıtlar; silindir hacmi>2500 cm3, kapasite>=10 kişi"
+870220900000,"Hem dizel veya yarı dizel hem de tahrik gücü veren elektrik motorlu taşıtlar; silindir hacmi<=2500 cm3,kapasite>=10 kişi"
+870230100000,"Hem benzinli hem de tahrik gücü veren elektrik motorlu taşıtlar; silindir hacmi>2800 cm3, kapasitesi >=10 kişi"
+870230900000,"Hem benzinli hem de tahrik gücü veren elektrik motorlu taşıtlar; silindir hacmi<=2800 cm3, kapasitesi >=10 kişi"
+870240000000,Sadece elektrik motorundan tahrikli taşıtlar; kapasitesi >=10 kişi
+870332199011,"Ambulans (dizel/yarı dizel, yeni) (1500 cm3"
+870340100000,"Hem benzinli hem de tahrik gücü veren elektrik motorlu diğer taşıtlar; yeni, harici güç kaynağından şarj edilenler HARİÇ"
+870350000000,Hem dizel/yarı dizel hemde tahrik gücü veren elektrik motorlu diğer taşıtlar; harici güç kaynaktan şarj edilenler HARİÇ
+870360100000,"Hem benzinli hem de tahrik gücü veren elektrik motorlu diğer taşıtlar; yeni, harici bir güç kaynağından şarj edilenler"
+870380100000,Sadece elektrik motorundan tahrikli diğer taşıtlar; yeni
+870390000000,İnsan taşımaya mahsus diğer taşıtlar
+870821100000,"Emniyet kemerleri; özel amaçlı,binek otomobilleri,insan taşımak için imal edilmiş diğer motorlu taşıtlar için"
+870830100000,"Özel amaçlı,eşya taşımak,insan taşımak için motorlu taşıtlar,traktörler,motokültörlerin fren ve servo frenler ve aksamı"
+870830910000,Kara taşıtlarının frenleri ve servo - frenleri ve bunların aksam ve parçaları
+870840200000,"Kara taşıtlarının montaj sanayisi için vites kutuları ve aksam, parçaları"
+870840500000,Kara taşıtlarının vites kutuları
+870840910000,"Kara taşıtları vites kutuları aksam, parçası (kapalı kalıpta dövülmüş çelikten)"
+870840990000,"Kara taşıtları vites kutuları aksam, parçası (diğerleri)"
+870850200011,Kara taşıtlarının montaj sanayisi için taşıyıcı aksları
+870850200019,Kara taşıtların montaj sanayisi için diğer amaçlı aksları
+870850350011,Kara taşıtlarının diğer amaçlar için taşıyıcı aksları
+870850350019,Kara taşıtların diğer amaçlar için aksları;diğerleri
+870850550000,"Kara taşıtları akslarının aksam, parçaları (kapalı kalıpta dövülmüş çelikten)"
+870850910000,"Kara taşıtları taşıyıcı akslarının aksam, parçaları (diğerleri)"
+870891350000,Kara taşıtlarının diğer amaçlar için radyatörleri
+870892200000,Kara taşıtlarının montaj sanayisi için eksoz susturucuları ve boruları
+870893900012,Debriyajların aksam ve parçaları (montaj sanayinde kullanılanlar hariç)
+870894200011,Kara taşıtlarının montaj sanayisi için direksiyon simitleri
+870894200012,Kara taşıtlarının montaj sanayisi için direksiyon kolonları
+870894200013,Kara taşıtlarının montaj sanayisi için mekanik direksiyon kutuları
+870894200014,Kara taşıtlarının montaj sanayisi için hidrolik direksiyon kutuları (ağırlığı=<30 kg.)
+870894350012,Kara taşıtlarının diğer amaçlar için direksiyon kolonları
+870894350014,Kara taşıtlarının diğer amaçlar için hidrolik direksiyon kutuları (ağırlığı=<30 kg.)
+870894990000,"Kara taşıtları için direksiyon simitinin, kolonunun, kutusunun diğer aksam, parçası"
+870895100000,Kara taşıtlarının montaj sanayisi için hava ile şişmeli hava yastıkları (airbag)
+870895910000,Motorlu taşıtlar için hava ile şişmeli hava yastıkları (airbag) ve aksam ve parçaları (kapalı kalıpta dövülmüş çelikten)
+871160900012,"Motosikletler (mopedler dahil), sepetler; elektrik motorundan tahrikli, motor gücü 20 kW' ı geçmeyenler"
+871410900000,"Motorsikletlere ait (mopedler dahil) diğer aksam, parça ve aksesuar"
+871690900012,"Römork, yarı römorkların frenleri vb. aksam; parçaları"
+880240009000,Diğer hava taşıtları (boş ağırlık >15000 kg)
+880320000000,İniş takımları vb. aksam ve parçaları; hava taşıtlarının
+880330000000,Uçak ve helikopterlerin díğer aksam ve parçaları
+880390900000,"88.01 ve 88.02 Pozisyonlarındaki diğer hava taşıtlarına ait aksam, parçalar"
+880521000000,Hava muharebe simulatörü ve bunların aksamı
+940110001000,Sivil hava taşıtları için oturmaya mahsus mobilyalar (deri kaplanmamış)
+940110009000,Diğer hava taşıtları için oturmaya mahsus mobilyalar
+940190100000,"Hava taşıtları için oturmaya mahsus mobilyaların aksam, parçaları"
+250300100000,Ham veya rafine edilmemiş kükürt
+251990100011,Magnezyum oksit; saf
+251990100012,Magnezyum oksit; saf olmayan
+261710000000,Antimuan cevherleri ve zenginleştirilmiş antimuan cevherleri
+380190001000,Metalo; grafitik bileşikler halindeki karbonlar/diğerleri
+380190009000,"Esası hamur, blok, levha/diğer yarı; mamul grafit/diğer karbon olan müstahzarlar"
+740311001000,Rafine edilmiş elektrolitik bakırdan katotlar ve katot parçaları
+740311009000,Rafine edilmiş diğer bakırdan katotlar ve katot parçaları
+740710000013,Rafine edilmiş bakırdan çubuklar
+740911000014,Rafine edilmiş bakırdan şeritler; rulo
+741110100000,Rafine edilmiş bakırdan düz olan ince ve kalın borular
+741991009000,"Bakırdan döküm, kalıba dökülmüş, presle şekillendirilmiş veya dövülmüş diğer eşya"
+750210001000,Mond ve alaşımsız katot nikel
+750890009019,Nikelden diğer eşya
+760612110000,"Aluminyum alaşımlarından içecek kutularının gövdelerinin imalinde kull. sac, levha şerit; kare/dikdörtgen,kalınlık>0.2mm"
+760612990000,"Aluminyum alaşımlarından sac, levha şerit; kare/digdörtgen, kalınlık >= 6mm"
+760719900000,"Aluminyumdan yapraklar ve şeritler; mesnetsiz, 0.021mm <=kalın < 0,2 mm"
+780110000000,Rafine edilmiş kurşun
+780199900000,İşlenmemiş diğer kurşun
+790111001011,"İşlenmemiş elektrolitik olan külçe çinko; ağırlık = >% 99, 99"
+790112101011,"İşlenmemiş elektrolitik olan külçe çinko; %99, 95="
+790112101012,"İşlenmemiş elektrolitik olmayan külçe çinko; %99, 95 ="
+790112109000,"Diğer işlenmemiş alaşımsız çinko; %99, 95 ="
+790112301000,"Külçe çinko; %98, 5 ="
+790120000000,Çinko alaşımları
+820770370012,Metal işlemeye mahsus makinaların frezelemeye mahsus elmastan veya aglomere edilmiş elmastan iş gören kısımları
+820810000000,Metal işleyen mekanik makine ve cihazlar için bıçaklar ve kesici ağızlar
+830120000000,Nakil vasıtalarında kullanılan türden kilitler
+848041000000,Metaller/metal karbürler için enjeksiyon/basınçlı döküm kalıpları
+848071000000,Kauçuk/plastik maddeler için enjeksiyon/basınçlı döküm kalıpları
+852351900000,Sesleri ve diğer fenomenleri kaydetmeye mahsus yarı iletken katı hal kalıcı depolama aygıtları; kayıt yapılmış
+930120000000,"Roket fırlatıcı, alev-alıcı, el bombası atıcıları; torpil tüpleri"
+930630101000,"Harp silahlarının (hafif makineli tabancalar) ait aksam, parça"
+930630300000,Harp silahlarına ait olan diğer mühimmat
+930690100000,Harp silahlara ait mermiler ve mühimmat
+940190800011,Kara nakil vasıtaları için oturmaya mahsus mobilyaların aksam; parçaları
