@@ -88,7 +88,7 @@ get_distincts <- function(scaled_data){
         distincts[[i]] <- c(distinct_values,'Missing')
         df[,(i) := lapply(.SD,function(x) as.character(x)),.SDcols = i]
         df[,(i) := lapply(.SD,function(x) ifelse(is.na(x),'Missing',x)),.SDcols = i]
-        df[,(i) := lapply(.SD,function(x) factor(x,levels = distincts[[i]])),.SDcols = i]
+        df[,(i) := lapply(.SD,function(x) factor(x,levels = c(distinct_values,'Missing'))),.SDcols = i]
     }
     
     
