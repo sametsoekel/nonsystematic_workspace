@@ -222,9 +222,9 @@ cross_validate <- function(train_data,target_data,folds,config,label_encoder,lab
     prm <- list(learning_rate = config$learning_rate,iterations = config$iter,
                 loss_function = config$objective,auto_class_weights = config$auto_class_weights,
                 verbose = 0,custom_loss = config$loss_fun,eval_metric = config$eval_metric,
-                use_best_model = config$use_best,
+                use_best_model = config$use_best,task_type = config$task,devices = config$device,
                 early_stopping_rounds = config$early_stopping_rounds)
-    
+    #print(prm)
     IRdisplay::display(config$slicer_1)
     for(i in folds_){
         
